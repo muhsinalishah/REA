@@ -1,0 +1,6 @@
+{
+  "name": "REA Studio - Reverse Engineer Anything",
+  "description": "Interactive reverse engineering workbench and AI agent studio powered by morluto/rea. Inspect binaries, WebAssembly, JavaScript bundles, SQLite, EVM bytecode, and network traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
